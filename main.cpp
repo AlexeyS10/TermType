@@ -236,7 +236,7 @@ void saveStats(double &accuracy, double &actualAccuracy, const string &timeStat,
     STATS.open("stats.json", ios::app);
 
     string date = getPresentTime();
-    if (getline(STATS, line))
+    // if (getline(STATS, line))
     STATS << "{" << endl
     << "\t\"" << date << "\": {" << "," << endl
     << "\t\t\"accuracy\":" << "\"" << fixed << setprecision(2) << accuracy << "\"" << endl
