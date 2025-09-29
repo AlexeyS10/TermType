@@ -1,0 +1,7 @@
+# Ignore testing executables
+../main.exe
+
+# Ignore statistics files
+stats.json
+
+../.vscode/
