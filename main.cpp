@@ -10,7 +10,7 @@
 #include <chrono>
 using namespace std;
 
-#define FILENAME "3k.txt"
+#define FILENAME "data/3k.txt"
 
 vector<string> split(const string &s, char delim)
 {

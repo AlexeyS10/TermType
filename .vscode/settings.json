@@ -6,6 +6,7 @@
         "ostream": "cpp",
         "iostream": "cpp",
         "string_view": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "iomanip": "cpp"
     }
 }
