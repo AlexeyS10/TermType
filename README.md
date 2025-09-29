@@ -1,4 +1,4 @@
-## TermType
+# TermType
 
 ## A terminal speed-typing game 
 
